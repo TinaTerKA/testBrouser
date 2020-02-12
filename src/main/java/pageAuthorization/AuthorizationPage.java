@@ -20,7 +20,4 @@ public class AuthorizationPage {
     public void password(){
         password.sendKeys("Parolanl1n");
     }
-
-
-
 }
